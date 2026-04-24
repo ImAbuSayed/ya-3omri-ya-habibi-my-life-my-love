@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا عمري يا حبيبي حياتي معاك
+> نار الشوق تنادي لقلبي بهواك
+> عيونك تسحرني في صمت الليل
+> روحي تنادي لك، وقلبي يميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
