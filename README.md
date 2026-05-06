@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-3omri-ya-habibi-my-life-my-love/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for Ya 3omri Ya Habibi – My Life, My Love](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
