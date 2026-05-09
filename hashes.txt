@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya 3omri Ya Habibi – My Life, My Love
+
+This log tracks the cryptographic history and versioning for the song **Ya 3omri Ya Habibi – My Life, My Love** (ya-3omri-ya-habibi-my-life-my-love).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:31:55.545983 | `v1` | `c565bb7b4c8f308a5669410c4e49f634df4c4112e64cce9341f1b292e6aa7b92` | `f41b177e6e0704b80b15250364a72f7425898cd88d0d22b9ab1bc1a2fa771782` | `2026-05-09_ya-3omri-ya-habibi-my-life-my-love-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
